@@ -16,7 +16,7 @@ If you have any questions or concerns, feel free to contact us at [support@vcs-a
 
 ## Demo
 Please access the demo application from below link.
-[https://mspv2.vcs-asia.com]
+[go](https://mspv2.vcs-asia.com){:target="_blank"}
 
 **ID**: demouser
 **Password**: Ademo531
