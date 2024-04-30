@@ -15,7 +15,7 @@ Please create a ID in Github and follow this repository so that if you are havin
 If you have any questions or concerns, feel free to contact us at [support@vcs-asia.com].
 
 ## Demo
-Please access the demo application from [here](https://mspv2.vcs-asia.com){:target="_blank" rel="noopener"}
+Please access the demo application from [here](https://mspv2.vcs-asia.com)
 
 **ID**: demouser
 
